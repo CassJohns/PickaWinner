@@ -1,0 +1,2 @@
+# PickaWinner
+Lottery Smart Contract
